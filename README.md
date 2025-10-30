@@ -10,6 +10,7 @@ Python-based directory brute force tool inspired by Gobuster.
 
 ## Installation
 ```bash
-git clone https://github.com/YOUR-USERNAME/pybuster.git
+git clone https://github.com/BlackOussema/pybuster.git
 cd pybuster
 pip install -r requirements.txt
+python3 pybuster.py -u https://target.com -w common.txt -t 15 -o results.txt
