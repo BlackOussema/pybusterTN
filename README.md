@@ -11,7 +11,7 @@ Python-based directory brute force tool inspired by Gobuster.
 ## Installation
 ```bash
 git clone https://github.com/BlackOussema/pybuster.git
-cd pybuster
+cd pybusterTN
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
